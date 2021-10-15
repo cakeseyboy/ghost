@@ -1,6 +1,4 @@
  {
   "schemaVersion": 2,
   "imageName": "ghost:4-alpine"
-  "ENV PORT 2368"
-  "EXPOSE PORT 2368"
  }
