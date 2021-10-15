@@ -1,14 +1,4 @@
-captainVersion: 4
-caproverOneClickApp:
-    instructions:
-        start: Just a plain Docker Compose.
-        version: '3.1'
-        services:
-          ghost:
-            image: ghost:4-alpine
-            restart: always
-            ports:
-              - 2368:2368
-            environment:
-        end: Docker Compose is deployed.
-########
+ {
+  "schemaVersion": 2,
+  "imageName": "ghost:4-alpine"
+ }
